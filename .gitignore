@@ -1,5 +1,4 @@
-__pycache__/
-*.pyc
-.env
-.vscode/
-risk_model.pkl
+.env 
+risk_model.pkl 
+__pycache__/ 
+.vscode/ 
